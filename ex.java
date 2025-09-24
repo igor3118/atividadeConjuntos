@@ -102,7 +102,7 @@ public class ex {
         for (int i = 0; i < tam1; i++) {
             v3[i] = v1[i] - v2[i];
         }
-        System.out.println("Diferença ");
+        System.out.println(titulo + ": ");
         imprimirVetor(v3, tam1);
        }
     }
